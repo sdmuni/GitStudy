@@ -9,6 +9,7 @@
 </head>
 <body>
 <h2>첫번째 제목입니다.local edit-different</h2>
-<h3>두번째 제목입니다</h3>
+<h3>두번째 제목입니다. remote edit </h3>
+
 </body>
 </html>
