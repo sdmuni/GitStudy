@@ -10,8 +10,11 @@
 <body>
 
 <h2>첫번째 제목입니다.local edit-different add too...</h2>
+
 <h3>두번째 제목입니다. remote edit.add too local same  </h3>
 
+
+<h3>두번째 제목입니다. remote edit.add too same too </h3>
 
 </body>
 </html>
